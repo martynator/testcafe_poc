@@ -1,0 +1,22 @@
+{
+  "name": "testcafe_poc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome ./firstTest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martynator/testcafe_poc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martynator/testcafe_poc/issues"
+  },
+  "homepage": "https://github.com/martynator/testcafe_poc#readme",
+  "devDependencies": {
+    "testcafe": "^1.7.0"
+  }
+}
